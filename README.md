@@ -5,6 +5,6 @@ Group members:
 Rock Baek,
 Kevin Davis,
 Jonathan Landesman,
-Adam Spitzig,
+Adam Spitzig
 
 Note: includes standard Python project .gitignore - modify as needed
