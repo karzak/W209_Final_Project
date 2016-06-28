@@ -1,9 +1,11 @@
 # Pull CDC's github repo from https://github.com/cdcepi/zika
 # Place this script in main (top level) directory and run
-# Script produces a directory 'data' containing subdir for each country
-#   which contains:
+
+# Script produces a directory 'data' containing a subdir for each country
+# Each subdur contains:
 #     (1) all individual country csv files, and
-#     (2) an all.csv file containing all country data
+#     (2) an all.csv file containing all country data combined
+# Script also produces an all.csv file (in 'data') containing all country data combined
 
 # make new directory for all final data
 mkdir data
